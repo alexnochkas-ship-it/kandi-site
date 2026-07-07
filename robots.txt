@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexnochkas-ship-it.github.io/kandi-site/sitemap.xml
